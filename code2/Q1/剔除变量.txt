@@ -1,0 +1,34 @@
+313：
+S-ZORB.AT_5201.PV   (只剩一个样本)   22
+S-ZORB.PDC_2502.PV (剔除了小部分)  43
+S-ZORB.SIS_LT_1001.PV (全部剔除)  49
+S-ZORB.AI_2903.PV (全部剔除)  84
+S-ZORB.FT_1204.TOTAL (全部剔除)  111
+
+
+
+
+ 
+
+ 285:
+S-ZORB.SIS_LT_1001.PV (全部剔除)    49
+S-ZORB.AI_2903.PV (全部剔除)      84
+S-ZORB.FT_1204.TOTAL (全部剔除)  111
+
+附件一：
+S-ZORB.AT-0012.DACA.PV      9        0.2-2.2
+S-ZORB.FT_1202.TOTAL       10
+S-ZORB.TE_2001.DACA 238  只有一个样本325不满足   -243602      -24360-12500000
+S-ZORB.CAL.LEVEL.PV  343  只有一个样本97不满足 -4269   -4200-20000
+
+
+综上 剔除变量为：
+S-ZORB.AT_5201.PV   (只剩一个样本)   22
+S-ZORB.PDC_2502.PV (剔除了小部分)  43
+S-ZORB.SIS_LT_1001.PV (全部剔除)  49
+S-ZORB.AI_2903.PV (全部剔除)  84
+S-ZORB.FT_1204.TOTAL (全部剔除)  111
+
+S-ZORB.AT-0012.DACA.PV      9       
+S-ZORB.FT_1202.TOTAL       10
+以及产品性质变量
